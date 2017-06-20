@@ -32,8 +32,6 @@
  cnpm install mongoose --save
 ```
 
-### Node_Pro 工程是对Node项目引入新东西的练习与拓展，将完善封装后的东西同步到myNodePro工程中去
-
 ### 引入socket.io 2017-06-20
 ```javascript
 cnpm install socket.io --save
