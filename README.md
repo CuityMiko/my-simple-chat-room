@@ -36,6 +36,11 @@
 ```javascript
 cnpm install socket.io --save
 ```
++ 浏览器中输入：
++ localhost:10086/examples/socketio?name=zhangsan
++ localhost:10086/examples/socketio?name=lisi
++ localhost:10086/examples/socketio?name=wangwu
++ 以上链接进行测试
 
 
 
